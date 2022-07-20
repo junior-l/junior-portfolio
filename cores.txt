@@ -1,0 +1,5 @@
+referencia  cor site brittany {
+--dark-navi:  #020c1b
+--navi: #020c1b
+--l-navi: #112240
+--navi-shadow: rgba(2,12,27,0.7)
