@@ -1,0 +1,50 @@
+body{
+  background-color:#020c1b;
+  color: aliceblue;
+}
+
+
+h1{
+  font-family: Nunito;
+  font-weight:900;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 50px;
+  
+}
+p{
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  font-size: 18px;
+  width: 30%;
+  font-size: 20px;
+  margin: 1rem auto;
+  border: 1px solid forestgreen;
+  padding: .5rem;
+  border-radius: 5px;
+}
+.cards{
+ 
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  gap: 	1rem;
+  align-items: center;
+  margin: auto;
+}
+.q1{
+  border: 1px solid #fff;
+  width: 10%;
+  height: 100vh;
+}
+.q2{
+  border: 1px solid #fff;
+  width: 10%;
+  height: 100vh;
+}
+.q3{
+  border: 1px solid #fff;
+  width: 10%;
+  height: 100vh;
+}
