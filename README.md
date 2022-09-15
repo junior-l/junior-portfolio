@@ -2,8 +2,8 @@
 
 <p align="left">Construindo meu portfolio. A ideia inicial seria fazer uma pagina estatica fora do padrão de rolagem.</p>
 
-##Status
-- [  ] Prototipação
+## Status
+- [     ] Prototipação
 <img alt="icon-figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <p align="left">Por enquanto tenho dois modelos, porém ainda não satisfeito. 
 Pensado e estudando bastante sobre UX me incomoda que talvez não seja uma boa experiência navegar pelo meu portfólio.</p>
